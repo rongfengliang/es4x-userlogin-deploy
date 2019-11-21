@@ -1,0 +1,16 @@
+{
+  "name": "@rongfengliang/myfirstes4x-jars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "module": "app.js",
+  "maven" : {
+    "groupId" : "com.dalong.nodeapi",
+    "artifactId" : "nodejsapi",
+    "version" : "1.0-SNAPSHOT"
+  },
+  "sideEffects" : false,
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
+}
